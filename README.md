@@ -6,12 +6,19 @@ This project explores a dataset of movies using Python to uncover patterns relat
 Work Done
 
 Cleaned and prepared raw movie data
+
 Calculated profit and return on investment (ROI)
+
 Analyzed top-performing movies
+
 Compared performance across different languages
+
 Extracted and studied various movie genres
+
 Evaluated producers and actors based on performance
+
 Examined director and actor collaborations
+
 Tools Used
 
 Python
